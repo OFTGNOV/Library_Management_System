@@ -72,6 +72,5 @@ We will review and merge it into `main` later.
 ✅ **Use Branches for Major Features**
 ✅ **Discuss Big Changes Before Pushing**
 
-If you need help, reach out on our group chat or check GitHub’s [docs](https://docs.github.com/).
-
+If you need help, reach out on our group chat or check GitHub’s
 Happy coding! 🚀
