@@ -15,8 +15,12 @@ Before you start coding, download the project to your local machine:
 You can use **Visual Studio Code**, **Visual Studio**, or any IDE of your choice. 
 
 If using **Visual Studio (Community/Professional):**
-- Open **Team Explorer** → Click **"Manage Connections"** → Select **"Clone a Repository"**.
+- Open **Visual Studio** → Select **"Clone a Repository"**.
 - Paste the repository URL and clone the project.
+
+If using **Visual Studio Code:**
+- Open **Visual Studio Code** → Click **"Open Folder"**.
+- Select the project folder you cloned.
 
 ---
 ## 🔄 **How to Contribute (Daily Workflow)**
@@ -44,25 +48,16 @@ Once you're done, upload your changes:
 git push origin main
 ```
 
-### **5️⃣ (Optional) Working on a New Feature? Use a Branch!**
-If you're adding a major feature, create a separate branch:
-```sh
-git checkout -b feature-branch
-```
-After finishing your feature, push it:
-```sh
-git push origin feature-branch
-```
-We will review and merge it into `main` later.
-
 ---
 ## 📂 **Project Structure**
 ```
 /Library_Management_System
-├── src/          # Source code files (.cpp, .h)
-├── tests/        # Any test cases (if applicable)
-├── .gitignore    # Ignore unnecessary files
-├── README.md     # Project overview
+├── Library Management System       # Source code files (.cpp, .h)
+├── .gitignore					    # Ignore unnecessary files
+├── .gitarrtibutes				    # Git configuration file
+├── LICENSE						    # Group Project Instuctions
+├── Library Management System.sln	# Visual Studio solution file
+├── README.md					    # Instructions and project details
 ```
 
 ---
